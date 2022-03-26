@@ -1,0 +1,16 @@
+C:\Bridgelabz\Day-14\UC-2\bin\Debug\net5.0\UC-2.exe
+C:\Bridgelabz\Day-14\UC-2\bin\Debug\net5.0\UC-2.deps.json
+C:\Bridgelabz\Day-14\UC-2\bin\Debug\net5.0\UC-2.runtimeconfig.json
+C:\Bridgelabz\Day-14\UC-2\bin\Debug\net5.0\UC-2.runtimeconfig.dev.json
+C:\Bridgelabz\Day-14\UC-2\bin\Debug\net5.0\UC-2.dll
+C:\Bridgelabz\Day-14\UC-2\bin\Debug\net5.0\UC-2.pdb
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\UC-2.csproj.AssemblyReference.cache
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\UC-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\UC-2.AssemblyInfoInputs.cache
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\UC-2.AssemblyInfo.cs
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\UC-2.csproj.CoreCompileInputs.cache
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\UC-2.dll
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\refint\UC-2.dll
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\UC-2.pdb
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\UC-2.genruntimeconfig.cache
+C:\Bridgelabz\Day-14\UC-2\obj\Debug\net5.0\ref\UC-2.dll
